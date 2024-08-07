@@ -4,5 +4,8 @@ ccccccccccccccccccccccccccccccccccccccc:wq aaaa abc
 
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaa abc 123
 
+<<<<<<< HEAD
 this is the change from feature branch
 this is the change from main 
+=======
+>>>>>>> parent of c96e034...  f1
