@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 209622cd57838d849b8c5335e5e83736eecffb97 Shankerkanaka <shankerkanaka@gmail.com> 1722965010 -0700	branch: Created from HEAD
+209622cd57838d849b8c5335e5e83736eecffb97 25d32e6a5dbd09ebcca58efde47378fe0b8ca576 Shankerkanaka <shankerkanaka@gmail.com> 1722965384 -0700	commit: f2
+25d32e6a5dbd09ebcca58efde47378fe0b8ca576 e07163c55310637fc81bf78156c0ba5c12c3d853 Shankerkanaka <shankerkanaka@gmail.com> 1722965536 -0700	commit (merge): final
+e07163c55310637fc81bf78156c0ba5c12c3d853 efba3bc50f4962ace1e8ce162502b79397c7082d Shankerkanaka <shankerkanaka@gmail.com> 1723001058 -0700	rebase finished: refs/heads/main_feature onto efba3bc50f4962ace1e8ce162502b79397c7082d
+efba3bc50f4962ace1e8ce162502b79397c7082d 8f199b807088f7d195e292315f68c7eb78097405 Shankerkanaka <shankerkanaka@gmail.com> 1723007196 -0700	reset: moving to HEAD~1
+8f199b807088f7d195e292315f68c7eb78097405 afbbf0ef8059203a6b6161ba0c9b7b6eb8df4808 Shankerkanaka <shankerkanaka@gmail.com> 1723007307 -0700	reset: moving to HEAD~1
+afbbf0ef8059203a6b6161ba0c9b7b6eb8df4808 5ca691987cd15fe217d15b5d0b44c5885988e4ff Shankerkanaka <shankerkanaka@gmail.com> 1723007472 -0700	reset: moving to HEAD~1
+5ca691987cd15fe217d15b5d0b44c5885988e4ff 122647e3a9fb45660834a98eacc05d5391239e45 Shankerkanaka <shankerkanaka@gmail.com> 1723007819 -0700	commit: merge conflict for file1 is now resolved
+122647e3a9fb45660834a98eacc05d5391239e45 9a95607214792020017ebc4b59fcbc81d3e4f8fd Shankerkanaka <shankerkanaka@gmail.com> 1723007915 -0700	revert: Revert " feature 4 added"
+9a95607214792020017ebc4b59fcbc81d3e4f8fd acaead145e04c3db7a821ab2939e8e8e81d0297e Shankerkanaka <shankerkanaka@gmail.com> 1723008935 -0700	cherry-pick: camera feature added in main_feature_camera
+acaead145e04c3db7a821ab2939e8e8e81d0297e 9eb75bfed2530660ab383d7bd64ef441e5b8623b Shankerkanaka <shankerkanaka@gmail.com> 1723009716 -0700	commit: file1 modified in main_dev
+9eb75bfed2530660ab383d7bd64ef441e5b8623b 73b6a716f15e26284851fb9fb4406fe43f3bbe2b Shankerkanaka <shankerkanaka@gmail.com> 1723009794 -0700	commit: file1 modified in main_feature
+73b6a716f15e26284851fb9fb4406fe43f3bbe2b cf7343db29d9d506708b4e656c606e16e873c8f3 Shankerkanaka <shankerkanaka@gmail.com> 1723010092 -0700	commit: file1 modified in main_feature
+cf7343db29d9d506708b4e656c606e16e873c8f3 8cfc27452dd64d8667e5b2256d8408e9a55d317b Shankerkanaka <shankerkanaka@gmail.com> 1723010201 -0700	commit: file2 modified in main_feature
