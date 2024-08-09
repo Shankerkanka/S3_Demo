@@ -1,5 +1,0 @@
-hi this is shanker and welcome to devops
-
-class 5 
-
-we are learning devops and todays class in on GIT and GIT HUB
