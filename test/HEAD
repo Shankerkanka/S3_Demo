@@ -1,0 +1,145 @@
+0000000000000000000000000000000000000000 ae1375a63f16c4476e959e29899fbf13ecf1e827 Shankerkanaka <shankerkanaka@gmail.com> 1722923935 -0700	clone: from git@github.com:Shankerkanka/S3_Demo.git
+ae1375a63f16c4476e959e29899fbf13ecf1e827 f9cadbee93cdff780d13eb82476928dd529949f9 Shankerkanaka <shankerkanaka@gmail.com> 1722924038 -0700	commit: file1 added
+f9cadbee93cdff780d13eb82476928dd529949f9 f9cadbee93cdff780d13eb82476928dd529949f9 Shankerkanaka <shankerkanaka@gmail.com> 1722924263 -0700	checkout: moving from main to fbranch
+f9cadbee93cdff780d13eb82476928dd529949f9 f9cadbee93cdff780d13eb82476928dd529949f9 Shankerkanaka <shankerkanaka@gmail.com> 1722924370 -0700	checkout: moving from fbranch to main
+f9cadbee93cdff780d13eb82476928dd529949f9 f9cadbee93cdff780d13eb82476928dd529949f9 Shankerkanaka <shankerkanaka@gmail.com> 1722948423 -0700	checkout: moving from main to featurebranch
+f9cadbee93cdff780d13eb82476928dd529949f9 4fb8b5bea584faae78d5df7fee0e44f6f4346b74 Shankerkanaka <shankerkanaka@gmail.com> 1722948524 -0700	commit: added new features cloud devops java linux sapcpi
+4fb8b5bea584faae78d5df7fee0e44f6f4346b74 836640b5edf5b5c8d6c636ade02278a53d1ef8c5 Shankerkanaka <shankerkanaka@gmail.com> 1722948768 -0700	revert: Revert " added new features cloud devops java linux sapcpi"
+836640b5edf5b5c8d6c636ade02278a53d1ef8c5 4fb8b5bea584faae78d5df7fee0e44f6f4346b74 Shankerkanaka <shankerkanaka@gmail.com> 1722948787 -0700	reset: moving to 4fb8b5bea584faae78d5df7fee0e44f6f4346b74
+4fb8b5bea584faae78d5df7fee0e44f6f4346b74 2695c1a7d2084dc57390f4b0e091771f1d6869d8 Shankerkanaka <shankerkanaka@gmail.com> 1722948843 -0700	commit: added new feature cloud
+2695c1a7d2084dc57390f4b0e091771f1d6869d8 315b29827c141768fe13b7708bd5d15baf046c74 Shankerkanaka <shankerkanaka@gmail.com> 1722948871 -0700	commit: added new feature devops
+315b29827c141768fe13b7708bd5d15baf046c74 9f085df65725fd226e60a83f3f64050f970b723c Shankerkanaka <shankerkanaka@gmail.com> 1722948880 -0700	commit: added new feature java
+9f085df65725fd226e60a83f3f64050f970b723c f1a68e09dbf1e19cc20a72a4413c84ec80014d1e Shankerkanaka <shankerkanaka@gmail.com> 1722948888 -0700	commit: added new feature linux
+f1a68e09dbf1e19cc20a72a4413c84ec80014d1e 2785a2641dfb3f80389c0a13ec03ad6049d6d372 Shankerkanaka <shankerkanaka@gmail.com> 1722948896 -0700	commit: added new feature sapcpi
+2785a2641dfb3f80389c0a13ec03ad6049d6d372 f9cadbee93cdff780d13eb82476928dd529949f9 Shankerkanaka <shankerkanaka@gmail.com> 1722948992 -0700	checkout: moving from featurebranch to main
+f9cadbee93cdff780d13eb82476928dd529949f9 2785a2641dfb3f80389c0a13ec03ad6049d6d372 Shankerkanaka <shankerkanaka@gmail.com> 1722949048 -0700	rebase: checkout featurebranch
+2785a2641dfb3f80389c0a13ec03ad6049d6d372 2785a2641dfb3f80389c0a13ec03ad6049d6d372 Shankerkanaka <shankerkanaka@gmail.com> 1722949048 -0700	rebase finished: refs/heads/main onto 2785a2641dfb3f80389c0a13ec03ad6049d6d372
+2785a2641dfb3f80389c0a13ec03ad6049d6d372 2785a2641dfb3f80389c0a13ec03ad6049d6d372 Shankerkanaka <shankerkanaka@gmail.com> 1722949078 -0700	checkout: moving from main to featurebranch
+2785a2641dfb3f80389c0a13ec03ad6049d6d372 2785a2641dfb3f80389c0a13ec03ad6049d6d372 Shankerkanaka <shankerkanaka@gmail.com> 1722949172 -0700	checkout: moving from featurebranch to main
+2785a2641dfb3f80389c0a13ec03ad6049d6d372 2785a2641dfb3f80389c0a13ec03ad6049d6d372 Shankerkanaka <shankerkanaka@gmail.com> 1722949193 -0700	checkout: moving from main to featurebranch
+2785a2641dfb3f80389c0a13ec03ad6049d6d372 2785a2641dfb3f80389c0a13ec03ad6049d6d372 Shankerkanaka <shankerkanaka@gmail.com> 1722949404 -0700	checkout: moving from featurebranch to main
+2785a2641dfb3f80389c0a13ec03ad6049d6d372 2785a2641dfb3f80389c0a13ec03ad6049d6d372 Shankerkanaka <shankerkanaka@gmail.com> 1722949658 -0700	checkout: moving from main to featurebranch
+2785a2641dfb3f80389c0a13ec03ad6049d6d372 65315da2164bc34a240c77aab2aa12b6368fda61 Shankerkanaka <shankerkanaka@gmail.com> 1722949694 -0700	commit: Added camera fature
+65315da2164bc34a240c77aab2aa12b6368fda61 f360b9edec27adce5bab399318ec8e6dbbf60de3 Shankerkanaka <shankerkanaka@gmail.com> 1722963259 -0700	commit: linux1 jenkins1 file2 added
+f360b9edec27adce5bab399318ec8e6dbbf60de3 2785a2641dfb3f80389c0a13ec03ad6049d6d372 Shankerkanaka <shankerkanaka@gmail.com> 1722963331 -0700	checkout: moving from featurebranch to main
+2785a2641dfb3f80389c0a13ec03ad6049d6d372 f360b9edec27adce5bab399318ec8e6dbbf60de3 Shankerkanaka <shankerkanaka@gmail.com> 1722963350 -0700	rebase: checkout featurebranch
+f360b9edec27adce5bab399318ec8e6dbbf60de3 f360b9edec27adce5bab399318ec8e6dbbf60de3 Shankerkanaka <shankerkanaka@gmail.com> 1722963350 -0700	rebase finished: refs/heads/main onto f360b9edec27adce5bab399318ec8e6dbbf60de3
+f360b9edec27adce5bab399318ec8e6dbbf60de3 f360b9edec27adce5bab399318ec8e6dbbf60de3 Shankerkanaka <shankerkanaka@gmail.com> 1722963416 -0700	checkout: moving from main to featurebranch
+f360b9edec27adce5bab399318ec8e6dbbf60de3 f360b9edec27adce5bab399318ec8e6dbbf60de3 Shankerkanaka <shankerkanaka@gmail.com> 1722963435 -0700	checkout: moving from featurebranch to main
+f360b9edec27adce5bab399318ec8e6dbbf60de3 f9cadbee93cdff780d13eb82476928dd529949f9 Shankerkanaka <shankerkanaka@gmail.com> 1722963513 -0700	checkout: moving from main to fbranch
+f9cadbee93cdff780d13eb82476928dd529949f9 f360b9edec27adce5bab399318ec8e6dbbf60de3 Shankerkanaka <shankerkanaka@gmail.com> 1722963519 -0700	checkout: moving from fbranch to featurebranch
+f360b9edec27adce5bab399318ec8e6dbbf60de3 f360b9edec27adce5bab399318ec8e6dbbf60de3 Shankerkanaka <shankerkanaka@gmail.com> 1722963590 -0700	checkout: moving from featurebranch to main
+f360b9edec27adce5bab399318ec8e6dbbf60de3 f7f3e7c1389e4323541f1e98daf94fd9eb6dc3ff Shankerkanaka <shankerkanaka@gmail.com> 1722963658 -0700	commit: feature 1 linux added
+f7f3e7c1389e4323541f1e98daf94fd9eb6dc3ff f360b9edec27adce5bab399318ec8e6dbbf60de3 Shankerkanaka <shankerkanaka@gmail.com> 1722963727 -0700	checkout: moving from main to featurebranch
+f360b9edec27adce5bab399318ec8e6dbbf60de3 f7f3e7c1389e4323541f1e98daf94fd9eb6dc3ff Shankerkanaka <shankerkanaka@gmail.com> 1722963743 -0700	checkout: moving from featurebranch to main
+f7f3e7c1389e4323541f1e98daf94fd9eb6dc3ff f8dbef58eed2261a04b32100915ae16082b13e9a Shankerkanaka <shankerkanaka@gmail.com> 1722963842 -0700	commit: file1 modified in main
+f8dbef58eed2261a04b32100915ae16082b13e9a f360b9edec27adce5bab399318ec8e6dbbf60de3 Shankerkanaka <shankerkanaka@gmail.com> 1722963852 -0700	checkout: moving from main to featurebranch
+f360b9edec27adce5bab399318ec8e6dbbf60de3 f8dbef58eed2261a04b32100915ae16082b13e9a Shankerkanaka <shankerkanaka@gmail.com> 1722963922 -0700	checkout: moving from featurebranch to main
+f8dbef58eed2261a04b32100915ae16082b13e9a b56f03822df053145e93e920973b81c14527a3ec Shankerkanaka <shankerkanaka@gmail.com> 1722964000 -0700	commit: camera feature
+b56f03822df053145e93e920973b81c14527a3ec b56f03822df053145e93e920973b81c14527a3ec Shankerkanaka <shankerkanaka@gmail.com> 1722964050 -0700	checkout: moving from main to main
+b56f03822df053145e93e920973b81c14527a3ec f360b9edec27adce5bab399318ec8e6dbbf60de3 Shankerkanaka <shankerkanaka@gmail.com> 1722964059 -0700	checkout: moving from main to featurebranch
+f360b9edec27adce5bab399318ec8e6dbbf60de3 b56f03822df053145e93e920973b81c14527a3ec Shankerkanaka <shankerkanaka@gmail.com> 1722964066 -0700	rebase: checkout main
+b56f03822df053145e93e920973b81c14527a3ec b56f03822df053145e93e920973b81c14527a3ec Shankerkanaka <shankerkanaka@gmail.com> 1722964066 -0700	rebase finished: refs/heads/featurebranch onto b56f03822df053145e93e920973b81c14527a3ec
+b56f03822df053145e93e920973b81c14527a3ec b56f03822df053145e93e920973b81c14527a3ec Shankerkanaka <shankerkanaka@gmail.com> 1722964102 -0700	reset: moving to HEAD
+b56f03822df053145e93e920973b81c14527a3ec b56f03822df053145e93e920973b81c14527a3ec Shankerkanaka <shankerkanaka@gmail.com> 1722964152 -0700	checkout: moving from featurebranch to main
+b56f03822df053145e93e920973b81c14527a3ec b56f03822df053145e93e920973b81c14527a3ec Shankerkanaka <shankerkanaka@gmail.com> 1722964277 -0700	checkout: moving from main to featurebranch
+b56f03822df053145e93e920973b81c14527a3ec b56f03822df053145e93e920973b81c14527a3ec Shankerkanaka <shankerkanaka@gmail.com> 1722964294 -0700	checkout: moving from featurebranch to main
+b56f03822df053145e93e920973b81c14527a3ec b56f03822df053145e93e920973b81c14527a3ec Shankerkanaka <shankerkanaka@gmail.com> 1722964316 -0700	checkout: moving from main to main
+b56f03822df053145e93e920973b81c14527a3ec b56f03822df053145e93e920973b81c14527a3ec Shankerkanaka <shankerkanaka@gmail.com> 1722964333 -0700	checkout: moving from main to featurebranch
+b56f03822df053145e93e920973b81c14527a3ec b56f03822df053145e93e920973b81c14527a3ec Shankerkanaka <shankerkanaka@gmail.com> 1722964341 -0700	checkout: moving from featurebranch to main
+b56f03822df053145e93e920973b81c14527a3ec 1b9111408bbdd67b4a997833683e2804345b2942 Shankerkanaka <shankerkanaka@gmail.com> 1722964412 -0700	commit: feature linux1 and jenkins added
+1b9111408bbdd67b4a997833683e2804345b2942 b56f03822df053145e93e920973b81c14527a3ec Shankerkanaka <shankerkanaka@gmail.com> 1722964422 -0700	checkout: moving from main to featurebranch
+b56f03822df053145e93e920973b81c14527a3ec 1b9111408bbdd67b4a997833683e2804345b2942 Shankerkanaka <shankerkanaka@gmail.com> 1722964431 -0700	checkout: moving from featurebranch to main
+1b9111408bbdd67b4a997833683e2804345b2942 b56f03822df053145e93e920973b81c14527a3ec Shankerkanaka <shankerkanaka@gmail.com> 1722964458 -0700	checkout: moving from main to featurebranch
+b56f03822df053145e93e920973b81c14527a3ec 1b9111408bbdd67b4a997833683e2804345b2942 Shankerkanaka <shankerkanaka@gmail.com> 1722964481 -0700	checkout: moving from featurebranch to main
+1b9111408bbdd67b4a997833683e2804345b2942 d94e76dd657a8bb3325f2e05d19fb0c5ab129d15 Shankerkanaka <shankerkanaka@gmail.com> 1722964503 -0700	commit: merge check
+d94e76dd657a8bb3325f2e05d19fb0c5ab129d15 b56f03822df053145e93e920973b81c14527a3ec Shankerkanaka <shankerkanaka@gmail.com> 1722964509 -0700	checkout: moving from main to featurebranch
+b56f03822df053145e93e920973b81c14527a3ec d94e76dd657a8bb3325f2e05d19fb0c5ab129d15 Shankerkanaka <shankerkanaka@gmail.com> 1722964525 -0700	rebase: checkout main
+d94e76dd657a8bb3325f2e05d19fb0c5ab129d15 d94e76dd657a8bb3325f2e05d19fb0c5ab129d15 Shankerkanaka <shankerkanaka@gmail.com> 1722964525 -0700	rebase finished: refs/heads/featurebranch onto d94e76dd657a8bb3325f2e05d19fb0c5ab129d15
+d94e76dd657a8bb3325f2e05d19fb0c5ab129d15 d94e76dd657a8bb3325f2e05d19fb0c5ab129d15 Shankerkanaka <shankerkanaka@gmail.com> 1722964575 -0700	checkout: moving from featurebranch to main
+d94e76dd657a8bb3325f2e05d19fb0c5ab129d15 d94e76dd657a8bb3325f2e05d19fb0c5ab129d15 Shankerkanaka <shankerkanaka@gmail.com> 1722964599 -0700	checkout: moving from main to featurebranch
+d94e76dd657a8bb3325f2e05d19fb0c5ab129d15 209622cd57838d849b8c5335e5e83736eecffb97 Shankerkanaka <shankerkanaka@gmail.com> 1722964640 -0700	commit: 123
+209622cd57838d849b8c5335e5e83736eecffb97 209622cd57838d849b8c5335e5e83736eecffb97 Shankerkanaka <shankerkanaka@gmail.com> 1722965010 -0700	checkout: moving from featurebranch to main_feature
+209622cd57838d849b8c5335e5e83736eecffb97 d94e76dd657a8bb3325f2e05d19fb0c5ab129d15 Shankerkanaka <shankerkanaka@gmail.com> 1722965049 -0700	checkout: moving from main_feature to main
+d94e76dd657a8bb3325f2e05d19fb0c5ab129d15 ea0408744c6eaf431ff30ee8ad2e6d0a8f6fd55e Shankerkanaka <shankerkanaka@gmail.com> 1722965103 -0700	commit: feature 1 added
+ea0408744c6eaf431ff30ee8ad2e6d0a8f6fd55e 825e40c0653a98e90b53037e48b80fef966d92d1 Shankerkanaka <shankerkanaka@gmail.com> 1722965143 -0700	commit: feature 2 added
+825e40c0653a98e90b53037e48b80fef966d92d1 c96e034a293ecb39430c2cb52fb501ed67cbe02a Shankerkanaka <shankerkanaka@gmail.com> 1722965283 -0700	commit: f1
+c96e034a293ecb39430c2cb52fb501ed67cbe02a 209622cd57838d849b8c5335e5e83736eecffb97 Shankerkanaka <shankerkanaka@gmail.com> 1722965312 -0700	checkout: moving from main to main_feature
+209622cd57838d849b8c5335e5e83736eecffb97 25d32e6a5dbd09ebcca58efde47378fe0b8ca576 Shankerkanaka <shankerkanaka@gmail.com> 1722965384 -0700	commit: f2
+25d32e6a5dbd09ebcca58efde47378fe0b8ca576 e07163c55310637fc81bf78156c0ba5c12c3d853 Shankerkanaka <shankerkanaka@gmail.com> 1722965536 -0700	commit (merge): final
+e07163c55310637fc81bf78156c0ba5c12c3d853 c96e034a293ecb39430c2cb52fb501ed67cbe02a Shankerkanaka <shankerkanaka@gmail.com> 1722965546 -0700	rebase: checkout main
+c96e034a293ecb39430c2cb52fb501ed67cbe02a 4b45af52009a7b66dc40669d98455da5aaf1b551 Shankerkanaka <shankerkanaka@gmail.com> 1722965546 -0700	rebase: 123
+4b45af52009a7b66dc40669d98455da5aaf1b551 9ef998056b9cd78d093ab9fa0c1e9aba516cb533 Shankerkanaka <shankerkanaka@gmail.com> 1722965614 -0700	commit: merge conflict has been resolved
+9ef998056b9cd78d093ab9fa0c1e9aba516cb533 e07163c55310637fc81bf78156c0ba5c12c3d853 Shankerkanaka <shankerkanaka@gmail.com> 1722965757 -0700	checkout: moving from 9ef998056b9cd78d093ab9fa0c1e9aba516cb533 to main_feature
+e07163c55310637fc81bf78156c0ba5c12c3d853 e07163c55310637fc81bf78156c0ba5c12c3d853 Shankerkanaka <shankerkanaka@gmail.com> 1723000460 -0700	checkout: moving from main_feature to main_dev
+e07163c55310637fc81bf78156c0ba5c12c3d853 e07163c55310637fc81bf78156c0ba5c12c3d853 Shankerkanaka <shankerkanaka@gmail.com> 1723000614 -0700	reset: moving to HEAD
+e07163c55310637fc81bf78156c0ba5c12c3d853 b765c4dda45911a44ea1294413473c3d33d5dc66 Shankerkanaka <shankerkanaka@gmail.com> 1723000768 -0700	commit: feature 3 added
+b765c4dda45911a44ea1294413473c3d33d5dc66 5ca691987cd15fe217d15b5d0b44c5885988e4ff Shankerkanaka <shankerkanaka@gmail.com> 1723000795 -0700	commit: feature 4 added
+5ca691987cd15fe217d15b5d0b44c5885988e4ff afbbf0ef8059203a6b6161ba0c9b7b6eb8df4808 Shankerkanaka <shankerkanaka@gmail.com> 1723000806 -0700	commit: feature 5 added
+afbbf0ef8059203a6b6161ba0c9b7b6eb8df4808 8f199b807088f7d195e292315f68c7eb78097405 Shankerkanaka <shankerkanaka@gmail.com> 1723000816 -0700	commit: feature 6 added
+8f199b807088f7d195e292315f68c7eb78097405 efba3bc50f4962ace1e8ce162502b79397c7082d Shankerkanaka <shankerkanaka@gmail.com> 1723000827 -0700	commit: feature 7 added
+efba3bc50f4962ace1e8ce162502b79397c7082d c96e034a293ecb39430c2cb52fb501ed67cbe02a Shankerkanaka <shankerkanaka@gmail.com> 1723000975 -0700	checkout: moving from main_dev to main
+c96e034a293ecb39430c2cb52fb501ed67cbe02a e07163c55310637fc81bf78156c0ba5c12c3d853 Shankerkanaka <shankerkanaka@gmail.com> 1723001051 -0700	rebase: updating HEAD
+e07163c55310637fc81bf78156c0ba5c12c3d853 efba3bc50f4962ace1e8ce162502b79397c7082d Shankerkanaka <shankerkanaka@gmail.com> 1723001058 -0700	rebase: checkout main_dev
+efba3bc50f4962ace1e8ce162502b79397c7082d efba3bc50f4962ace1e8ce162502b79397c7082d Shankerkanaka <shankerkanaka@gmail.com> 1723001058 -0700	rebase finished: refs/heads/main_feature onto efba3bc50f4962ace1e8ce162502b79397c7082d
+efba3bc50f4962ace1e8ce162502b79397c7082d 8f199b807088f7d195e292315f68c7eb78097405 Shankerkanaka <shankerkanaka@gmail.com> 1723007196 -0700	reset: moving to HEAD~1
+8f199b807088f7d195e292315f68c7eb78097405 afbbf0ef8059203a6b6161ba0c9b7b6eb8df4808 Shankerkanaka <shankerkanaka@gmail.com> 1723007307 -0700	reset: moving to HEAD~1
+afbbf0ef8059203a6b6161ba0c9b7b6eb8df4808 5ca691987cd15fe217d15b5d0b44c5885988e4ff Shankerkanaka <shankerkanaka@gmail.com> 1723007472 -0700	reset: moving to HEAD~1
+5ca691987cd15fe217d15b5d0b44c5885988e4ff 122647e3a9fb45660834a98eacc05d5391239e45 Shankerkanaka <shankerkanaka@gmail.com> 1723007819 -0700	commit: merge conflict for file1 is now resolved
+122647e3a9fb45660834a98eacc05d5391239e45 9a95607214792020017ebc4b59fcbc81d3e4f8fd Shankerkanaka <shankerkanaka@gmail.com> 1723007915 -0700	revert: Revert " feature 4 added"
+9a95607214792020017ebc4b59fcbc81d3e4f8fd efba3bc50f4962ace1e8ce162502b79397c7082d Shankerkanaka <shankerkanaka@gmail.com> 1723008795 -0700	checkout: moving from main_feature to main_dev
+efba3bc50f4962ace1e8ce162502b79397c7082d efbba96d64d2812b3fa460e1c6b90d7f446bd2bb Shankerkanaka <shankerkanaka@gmail.com> 1723008862 -0700	commit: camera feature added in main_feature_camera
+efbba96d64d2812b3fa460e1c6b90d7f446bd2bb 9a95607214792020017ebc4b59fcbc81d3e4f8fd Shankerkanaka <shankerkanaka@gmail.com> 1723008915 -0700	checkout: moving from main_dev to main_feature
+9a95607214792020017ebc4b59fcbc81d3e4f8fd acaead145e04c3db7a821ab2939e8e8e81d0297e Shankerkanaka <shankerkanaka@gmail.com> 1723008935 -0700	cherry-pick: camera feature added in main_feature_camera
+acaead145e04c3db7a821ab2939e8e8e81d0297e 9eb75bfed2530660ab383d7bd64ef441e5b8623b Shankerkanaka <shankerkanaka@gmail.com> 1723009716 -0700	commit: file1 modified in main_dev
+9eb75bfed2530660ab383d7bd64ef441e5b8623b 73b6a716f15e26284851fb9fb4406fe43f3bbe2b Shankerkanaka <shankerkanaka@gmail.com> 1723009794 -0700	commit: file1 modified in main_feature
+73b6a716f15e26284851fb9fb4406fe43f3bbe2b efbba96d64d2812b3fa460e1c6b90d7f446bd2bb Shankerkanaka <shankerkanaka@gmail.com> 1723009884 -0700	checkout: moving from main_feature to main_dev
+efbba96d64d2812b3fa460e1c6b90d7f446bd2bb a34c3212dd3eed30815cf3baf11dd45b84a8724f Shankerkanaka <shankerkanaka@gmail.com> 1723010020 -0700	commit: file1 modified in main_dev
+a34c3212dd3eed30815cf3baf11dd45b84a8724f 73b6a716f15e26284851fb9fb4406fe43f3bbe2b Shankerkanaka <shankerkanaka@gmail.com> 1723010040 -0700	checkout: moving from main_dev to main_feature
+73b6a716f15e26284851fb9fb4406fe43f3bbe2b cf7343db29d9d506708b4e656c606e16e873c8f3 Shankerkanaka <shankerkanaka@gmail.com> 1723010092 -0700	commit: file1 modified in main_feature
+cf7343db29d9d506708b4e656c606e16e873c8f3 8cfc27452dd64d8667e5b2256d8408e9a55d317b Shankerkanaka <shankerkanaka@gmail.com> 1723010201 -0700	commit: file2 modified in main_feature
+8cfc27452dd64d8667e5b2256d8408e9a55d317b a34c3212dd3eed30815cf3baf11dd45b84a8724f Shankerkanaka <shankerkanaka@gmail.com> 1723010259 -0700	checkout: moving from main_feature to main_dev
+a34c3212dd3eed30815cf3baf11dd45b84a8724f 6e51fa119ebed341dc6b658c04a7769bad897861 Shankerkanaka <shankerkanaka@gmail.com> 1723010360 -0700	commit: file2 modified in main_dev
+6e51fa119ebed341dc6b658c04a7769bad897861 8cfc27452dd64d8667e5b2256d8408e9a55d317b Shankerkanaka <shankerkanaka@gmail.com> 1723010390 -0700	rebase: checkout main_feature
+8cfc27452dd64d8667e5b2256d8408e9a55d317b 2b6136de6480b8d0d4f3e334a3bfca5dcf2c7921 Shankerkanaka <shankerkanaka@gmail.com> 1723010390 -0700	rebase: feature 5 added
+2b6136de6480b8d0d4f3e334a3bfca5dcf2c7921 83976e861f5f8bad978e5f619f365b638dd50d4b Shankerkanaka <shankerkanaka@gmail.com> 1723010816 -0700	commit: merge conflict resolved
+83976e861f5f8bad978e5f619f365b638dd50d4b fa1b73f9c7782003deb47b7f15439a5bec9350c7 Shankerkanaka <shankerkanaka@gmail.com> 1723010915 -0700	rebase: file1 modified in main_dev
+fa1b73f9c7782003deb47b7f15439a5bec9350c7 2af55bf42fde585087e7e0d506cca1175a261fc5 Shankerkanaka <shankerkanaka@gmail.com> 1723010915 -0700	rebase: file2 modified in main_dev
+2af55bf42fde585087e7e0d506cca1175a261fc5 2af55bf42fde585087e7e0d506cca1175a261fc5 Shankerkanaka <shankerkanaka@gmail.com> 1723010915 -0700	rebase finished: returning to refs/heads/main_dev
+2af55bf42fde585087e7e0d506cca1175a261fc5 2af55bf42fde585087e7e0d506cca1175a261fc5 Shankerkanaka <shankerkanaka@gmail.com> 1723011037 -0700	reset: moving to HEAD
+2af55bf42fde585087e7e0d506cca1175a261fc5 2af55bf42fde585087e7e0d506cca1175a261fc5 Shankerkanaka <shankerkanaka@gmail.com> 1723011066 -0700	reset: moving to HEAD
+2af55bf42fde585087e7e0d506cca1175a261fc5 8cfc27452dd64d8667e5b2256d8408e9a55d317b Shankerkanaka <shankerkanaka@gmail.com> 1723011223 -0700	checkout: moving from main_dev to main_feature
+8cfc27452dd64d8667e5b2256d8408e9a55d317b 8cfc27452dd64d8667e5b2256d8408e9a55d317b Shankerkanaka <shankerkanaka@gmail.com> 1723011244 -0700	reset: moving to HEAD
+8cfc27452dd64d8667e5b2256d8408e9a55d317b 2af55bf42fde585087e7e0d506cca1175a261fc5 Shankerkanaka <shankerkanaka@gmail.com> 1723011256 -0700	checkout: moving from main_feature to main_dev
+2af55bf42fde585087e7e0d506cca1175a261fc5 2af55bf42fde585087e7e0d506cca1175a261fc5 Shankerkanaka <shankerkanaka@gmail.com> 1723011377 -0700	reset: moving to HEAD
+2af55bf42fde585087e7e0d506cca1175a261fc5 2af55bf42fde585087e7e0d506cca1175a261fc5 Shankerkanaka <shankerkanaka@gmail.com> 1723011390 -0700	reset: moving to HEAD
+2af55bf42fde585087e7e0d506cca1175a261fc5 2af55bf42fde585087e7e0d506cca1175a261fc5 Shankerkanaka <shankerkanaka@gmail.com> 1723011399 -0700	reset: moving to HEAD
+2af55bf42fde585087e7e0d506cca1175a261fc5 2af55bf42fde585087e7e0d506cca1175a261fc5 Shankerkanaka <shankerkanaka@gmail.com> 1723011412 -0700	reset: moving to HEAD
+2af55bf42fde585087e7e0d506cca1175a261fc5 2af55bf42fde585087e7e0d506cca1175a261fc5 Shankerkanaka <shankerkanaka@gmail.com> 1723011677 -0700	reset: moving to HEAD
+2af55bf42fde585087e7e0d506cca1175a261fc5 c96e034a293ecb39430c2cb52fb501ed67cbe02a Shankerkanaka <shankerkanaka@gmail.com> 1723011897 -0700	checkout: moving from main_dev to main
+c96e034a293ecb39430c2cb52fb501ed67cbe02a c96e034a293ecb39430c2cb52fb501ed67cbe02a Shankerkanaka <shankerkanaka@gmail.com> 1723011944 -0700	reset: moving to HEAD
+c96e034a293ecb39430c2cb52fb501ed67cbe02a c96e034a293ecb39430c2cb52fb501ed67cbe02a Shankerkanaka <shankerkanaka@gmail.com> 1723012012 -0700	reset: moving to HEAD
+c96e034a293ecb39430c2cb52fb501ed67cbe02a c96e034a293ecb39430c2cb52fb501ed67cbe02a Shankerkanaka <shankerkanaka@gmail.com> 1723012109 -0700	reset: moving to HEAD
+c96e034a293ecb39430c2cb52fb501ed67cbe02a c96e034a293ecb39430c2cb52fb501ed67cbe02a Shankerkanaka <shankerkanaka@gmail.com> 1723012409 -0700	checkout: moving from main to branch-1
+c96e034a293ecb39430c2cb52fb501ed67cbe02a c96e034a293ecb39430c2cb52fb501ed67cbe02a Shankerkanaka <shankerkanaka@gmail.com> 1723012409 -0700	checkout: moving from branch-1 to branch-2
+c96e034a293ecb39430c2cb52fb501ed67cbe02a c96e034a293ecb39430c2cb52fb501ed67cbe02a Shankerkanaka <shankerkanaka@gmail.com> 1723012409 -0700	checkout: moving from branch-2 to branch-3
+c96e034a293ecb39430c2cb52fb501ed67cbe02a c96e034a293ecb39430c2cb52fb501ed67cbe02a Shankerkanaka <shankerkanaka@gmail.com> 1723012409 -0700	checkout: moving from branch-3 to branch-4
+c96e034a293ecb39430c2cb52fb501ed67cbe02a c96e034a293ecb39430c2cb52fb501ed67cbe02a Shankerkanaka <shankerkanaka@gmail.com> 1723012409 -0700	checkout: moving from branch-4 to branch-5
+c96e034a293ecb39430c2cb52fb501ed67cbe02a c96e034a293ecb39430c2cb52fb501ed67cbe02a Shankerkanaka <shankerkanaka@gmail.com> 1723012409 -0700	checkout: moving from branch-5 to branch-6
+c96e034a293ecb39430c2cb52fb501ed67cbe02a c96e034a293ecb39430c2cb52fb501ed67cbe02a Shankerkanaka <shankerkanaka@gmail.com> 1723012409 -0700	checkout: moving from branch-6 to branch-7
+c96e034a293ecb39430c2cb52fb501ed67cbe02a c96e034a293ecb39430c2cb52fb501ed67cbe02a Shankerkanaka <shankerkanaka@gmail.com> 1723012409 -0700	checkout: moving from branch-7 to branch-8
+c96e034a293ecb39430c2cb52fb501ed67cbe02a c96e034a293ecb39430c2cb52fb501ed67cbe02a Shankerkanaka <shankerkanaka@gmail.com> 1723012409 -0700	checkout: moving from branch-8 to branch-9
+c96e034a293ecb39430c2cb52fb501ed67cbe02a c96e034a293ecb39430c2cb52fb501ed67cbe02a Shankerkanaka <shankerkanaka@gmail.com> 1723012409 -0700	checkout: moving from branch-9 to branch-10
+c96e034a293ecb39430c2cb52fb501ed67cbe02a 5818e0f2af17791a82b79f1b148c20d40ac80cad Shankerkanaka <shankerkanaka@gmail.com> 1723012999 -0700	commit (amend): f1
+5818e0f2af17791a82b79f1b148c20d40ac80cad 505a0c693bd1350ab59a9d955f7a1eac4a6a785b Shankerkanaka <shankerkanaka@gmail.com> 1723013079 -0700	commit (amend): f1
+505a0c693bd1350ab59a9d955f7a1eac4a6a785b e105ebab9d77512e9d85fc2fc1fafbc820ea03e0 Shankerkanaka <shankerkanaka@gmail.com> 1723013193 -0700	commit (amend): merge conflict for the file is resolved and ready to add
+e105ebab9d77512e9d85fc2fc1fafbc820ea03e0 f0839b6b649ddf3e38b89a27d5ef602e216ba216 Shankerkanaka <shankerkanaka@gmail.com> 1723013587 -0700	commit: testazure.txt
+f0839b6b649ddf3e38b89a27d5ef602e216ba216 f0839b6b649ddf3e38b89a27d5ef602e216ba216 Shankerkanaka <shankerkanaka@gmail.com> 1723013675 -0700	reset: moving to HEAD
+f0839b6b649ddf3e38b89a27d5ef602e216ba216 eeafb7dce7e458a84d34bedc6ee0641e4e01cf8e Shankerkanaka <shankerkanaka@gmail.com> 1723013889 -0700	commit: numbers added
+eeafb7dce7e458a84d34bedc6ee0641e4e01cf8e eeafb7dce7e458a84d34bedc6ee0641e4e01cf8e Shankerkanaka <shankerkanaka@gmail.com> 1723029868 -0700	reset: moving to HEAD
+eeafb7dce7e458a84d34bedc6ee0641e4e01cf8e eeafb7dce7e458a84d34bedc6ee0641e4e01cf8e Shankerkanaka <shankerkanaka@gmail.com> 1723029883 -0700	reset: moving to HEAD
+eeafb7dce7e458a84d34bedc6ee0641e4e01cf8e eeafb7dce7e458a84d34bedc6ee0641e4e01cf8e Shankerkanaka <shankerkanaka@gmail.com> 1723029892 -0700	rebase -i (start): checkout HEAD~1
+eeafb7dce7e458a84d34bedc6ee0641e4e01cf8e eeafb7dce7e458a84d34bedc6ee0641e4e01cf8e Shankerkanaka <shankerkanaka@gmail.com> 1723029892 -0700	rebase -i (finish): returning to refs/heads/branch-10
+eeafb7dce7e458a84d34bedc6ee0641e4e01cf8e eeafb7dce7e458a84d34bedc6ee0641e4e01cf8e Shankerkanaka <shankerkanaka@gmail.com> 1723029906 -0700	rebase -i (start): checkout HEAD~5
+eeafb7dce7e458a84d34bedc6ee0641e4e01cf8e eeafb7dce7e458a84d34bedc6ee0641e4e01cf8e Shankerkanaka <shankerkanaka@gmail.com> 1723029906 -0700	rebase -i (finish): returning to refs/heads/branch-10
+eeafb7dce7e458a84d34bedc6ee0641e4e01cf8e 322ca5683b8d17091f7993498b0728ee11116285 Shankerkanaka <shankerkanaka@gmail.com> 1723189518 -0700	commit: version ver7771

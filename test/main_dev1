@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 e07163c55310637fc81bf78156c0ba5c12c3d853 Shankerkanaka <shankerkanaka@gmail.com> 1723000454 -0700	branch: Created from main_feature
+e07163c55310637fc81bf78156c0ba5c12c3d853 b765c4dda45911a44ea1294413473c3d33d5dc66 Shankerkanaka <shankerkanaka@gmail.com> 1723000768 -0700	commit: feature 3 added
+b765c4dda45911a44ea1294413473c3d33d5dc66 5ca691987cd15fe217d15b5d0b44c5885988e4ff Shankerkanaka <shankerkanaka@gmail.com> 1723000795 -0700	commit: feature 4 added
+5ca691987cd15fe217d15b5d0b44c5885988e4ff afbbf0ef8059203a6b6161ba0c9b7b6eb8df4808 Shankerkanaka <shankerkanaka@gmail.com> 1723000806 -0700	commit: feature 5 added
+afbbf0ef8059203a6b6161ba0c9b7b6eb8df4808 8f199b807088f7d195e292315f68c7eb78097405 Shankerkanaka <shankerkanaka@gmail.com> 1723000816 -0700	commit: feature 6 added
+8f199b807088f7d195e292315f68c7eb78097405 efba3bc50f4962ace1e8ce162502b79397c7082d Shankerkanaka <shankerkanaka@gmail.com> 1723000827 -0700	commit: feature 7 added
+efba3bc50f4962ace1e8ce162502b79397c7082d efbba96d64d2812b3fa460e1c6b90d7f446bd2bb Shankerkanaka <shankerkanaka@gmail.com> 1723008862 -0700	commit: camera feature added in main_feature_camera
+efbba96d64d2812b3fa460e1c6b90d7f446bd2bb a34c3212dd3eed30815cf3baf11dd45b84a8724f Shankerkanaka <shankerkanaka@gmail.com> 1723010020 -0700	commit: file1 modified in main_dev
+a34c3212dd3eed30815cf3baf11dd45b84a8724f 6e51fa119ebed341dc6b658c04a7769bad897861 Shankerkanaka <shankerkanaka@gmail.com> 1723010360 -0700	commit: file2 modified in main_dev
+6e51fa119ebed341dc6b658c04a7769bad897861 2af55bf42fde585087e7e0d506cca1175a261fc5 Shankerkanaka <shankerkanaka@gmail.com> 1723010915 -0700	rebase finished: returning to refs/heads/main_dev
+2af55bf42fde585087e7e0d506cca1175a261fc5 2af55bf42fde585087e7e0d506cca1175a261fc5 Shankerkanaka <shankerkanaka@gmail.com> 1723131226 -0700	Branch: renamed refs/heads/main_dev to refs/heads/main_dev1
